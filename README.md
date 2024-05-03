@@ -1,2 +1,2 @@
 # doctors_appointment
-app rebdez vous en ligne 
+app rende-vous en ligne 
